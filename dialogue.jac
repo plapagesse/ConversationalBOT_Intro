@@ -1,6 +1,6 @@
 node dialogue_root;
 
-node dialogue_state {
+node dialogue_state:cai_state {
     has name;
     has response;
 }
