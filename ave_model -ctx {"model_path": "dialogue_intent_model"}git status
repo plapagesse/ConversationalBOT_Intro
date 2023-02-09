@@ -1,0 +1,25 @@
+[33mcommit 88665aec03febfab73845c72435be789aaac1814[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pedro Lapagesse <pedrolap@umich.edu>
+Date:   Thu Feb 9 13:21:59 2023 -0500
+
+    First intent classifier completed!
+
+[33mcommit 1079f9b77afbefc0015b2402f7fcada66cd3f0df[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Pedro Lapagesse <pedrolap@umich.edu>
+Date:   Thu Jan 26 15:18:09 2023 -0500
+
+    Zero shot FAQ model completed.
+    json file teaches the bot some more questions and answers. ingest_faq create some more faq_state nodes based off those questions.
+
+[33mcommit 542a6d1a9f6c1ea4b560658ebcf286eabfe5bc98[m
+Author: Pedro Lapagesse <pedrolap@umich.edu>
+Date:   Thu Jan 26 14:56:21 2023 -0500
+
+    Initial very simple faq Tesla bot.
+    Predefined questions can be answered with predefined answers.
+
+[33mcommit dd992c89b7cd63d420713ec20fbf622df7fbce82[m
+Author: Pedro Lapagesse <pedrolap@umich.edu>
+Date:   Wed Jan 25 19:39:21 2023 -0500
+
+    testing
